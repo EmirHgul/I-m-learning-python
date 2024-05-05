@@ -1,0 +1,4 @@
+ahmet yılmaz:60,70,80
+haticeayva:100,90,80
+ab:40,50,60
+HiranurTazan:100,98,100
